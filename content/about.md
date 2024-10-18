@@ -1,3 +1,4 @@
 # About Content v2
 
-[Back home](/)
+[Home Page](/)
+[Blog Page](/blog)

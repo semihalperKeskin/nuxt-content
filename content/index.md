@@ -2,7 +2,11 @@
 title: Home page
 ---
 
-# C
+# Home page
+
+[About Page](/about)
+[Blog Page](/blog)
+
 
 ::card
 #title
