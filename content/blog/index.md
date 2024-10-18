@@ -2,7 +2,6 @@
 title: Blog Page
 ---
 
-
 # Blog page
 
 - [About Page](/blog)
@@ -10,11 +9,6 @@ title: Blog Page
 
 This is **Blog Page** for my project.
 
- 
-
-
-<style>
-  h1{
-    color: red;
-  }
-</style> 
+- lkklm
+- oıyt
+- jbv
