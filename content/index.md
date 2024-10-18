@@ -4,8 +4,8 @@ title: Home page
 
 # Home page
 
-[About Page](/about)
-[Blog Page](/blog)
+- [About Page](/about)
+- [Blog Page](/blog)
 
 
 ::card
