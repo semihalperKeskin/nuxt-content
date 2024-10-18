@@ -2,19 +2,15 @@
 title: Home page
 ---
 
-# page
+# C
 
 ::card
 #title
-Card Title
-#content
-Card Content
-#footer
-Card Footer
-::
+Card Title sec.
 
-<style>
-  h1 {
-    @apply text-2xl;
-  }
-</style>
+#content
+Card Content section
+
+#footer
+Card Footer section
+::
