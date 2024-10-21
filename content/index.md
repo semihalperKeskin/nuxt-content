@@ -13,10 +13,10 @@ socials:
 Residorm
 
 #middleSection1
-HAKKIMIZDA
+Yasin
 
 #middleSection2
-SENA
+Damla
 
 #middleSection3
 KEŞFET
