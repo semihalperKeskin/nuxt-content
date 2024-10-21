@@ -10,13 +10,13 @@ socials:
 
 ::navbar
 #logoName
-ResidormLar
+Residorm
 
 #middleSection1
-HAKKIMIZDAD
+HAKKIMIZDA
 
 #middleSection2
-RESİDORMLAR
+SENA
 
 #middleSection3
 KEŞFET
