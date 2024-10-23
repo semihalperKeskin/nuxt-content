@@ -7,14 +7,14 @@ socials:
   linkedin: https://www.linkedin.com/in/seninprofilin
   github: https://www.github.com/seninprofilin
 booking:
-  image: https://picsum.photos/id/49/1200/600git
+  image: https://picsum.photos/id/49/1200/600
 dormList:
-  dormOne: 
+  dormOne:
     name: dorm 1
-    link: /
+    link: wdwq
   dormMany:
     name: dorm 3
-    link: /
+    link: wdwq
 ---
 
 ::navbar
@@ -22,10 +22,10 @@ dormList:
 Residorm
 
 #middleSection1
-Yasin
+Residormlar
 
 #middleSection2
-Damla
+Hakkında
 
 #middleSection3
 KEŞFET
@@ -44,16 +44,18 @@ KVKK
 
 #middleSection8
 TR
-:: 
+::
 
-
-::BookingPicture
+::booking-picture
 #title
 Residorm Student Dorms
+
 #description
 More than a room...
+
 #button
 CLICK HERE TO BOOKING NOW
 ::
 
-::DormList
+::dorm-list
+::
