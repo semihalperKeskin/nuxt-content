@@ -3,3 +3,9 @@
     <NuxtPage class="col-span-12 mx-auto" />
   </div>
 </template>
+
+<style scoped>
+* {
+  font-family: 'Open Sans', sans-serif
+}
+</style>

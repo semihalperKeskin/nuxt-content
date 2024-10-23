@@ -1,6 +1,8 @@
 <template>
   <nav class="bg-black w-screen">
-    <div class="max-w-screen-xl mx-auto grid grid-cols-12 gap-4 py-[15px] h-[100px]">
+    <div
+      class="max-w-screen-xl mx-auto grid grid-cols-12 gap-4 py-[15px] h-[100px]"
+    >
       <div class="col-span-3">
         <a
           href="https://flowbite.com/"
@@ -22,10 +24,15 @@
             </a>
           </li>
           <li class="flex items-center gap-1">
-            <a href="#" class="hover:border-b-2" aria-current="page"
-              ><slot name="middleSection2"
-            /></a>
-            <Icon name="i-mdi-menu-down" class="text-xl" />
+            <UDropdown :items="items" :popper="{ placement: 'bottom-start' }">
+              <UButton
+                color="transparent"
+                class="hover:border-b-2 flex rounded-none text-gray-400 text-xs"
+                label="Options"
+                trailing-icon="i-mdi-menu-down text-xl"
+                ><slot name="middleSection2" />
+              </UButton>
+            </UDropdown>
           </li>
           <li class="flex items-center gap-1">
             <a href="#" class="hover:border-b-2"
@@ -37,7 +44,7 @@
             <a href="#" class="hover:border-b-2"
               ><slot name="middleSection4"
             /></a>
-            <Icon name="i-mdi-menu-down" class="text-xl"  />
+            <Icon name="i-mdi-menu-down" class="text-xl" />
           </li>
           <li>
             <a href="#" class="hover:border-b-2"
@@ -117,7 +124,22 @@ ul li {
 </style>
 
 <script setup>
-const { data } = await useAsyncData(() => queryContent("/").findOne());
+const { data } = await useAsyncData(() => queryContent("/").findOne())
 
-const socials = data.value.socials || {};
+const socials = data.value.socials || {}
+
+const items = [
+  [
+    {
+      label: "Yurt 1",
+      icon: "i-heroicons-home-20-solid",
+    },
+  ],
+  [
+    {
+      label: "Yurt 2",
+      icon: "i-heroicons-home-20-solid",
+    },
+  ],
+]
 </script>
