@@ -1,7 +1,7 @@
 <script setup lang="ts">
 const { data } = await useAsyncData(() => queryContent("/").findOne());
 
-const booking = data.value.booking || {}
+const booking = data.value?.booking || {}
 
 const light = booking.image
 </script>

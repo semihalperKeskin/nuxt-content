@@ -1,13 +1,6 @@
 ---
 title: Home page
 socials:
-<<<<<<< Updated upstream
-  facebook: https://www.facebook.com/alper
-  twitter: https://www.twitter.com/seninprofilin
-  instagram: https://www.instagram.com/seninprofilin
-  linkedin: https://www.linkedin.com/in/seninprofilin
-  github: https://www.github.com/seninprofilin
-=======
   facebook: 'https://www.facebook.com/seninprofilin'
   twitter: 'https://www.twitter.com/seninprofilin'
   instagram: 'https://www.instagram.com/seninprofilin'
@@ -22,7 +15,6 @@ dormList:
   dormMany:
     name: 'dorm 3'
     link: 'wdwq'
->>>>>>> Stashed changes
 ---
 
 ::navbar
@@ -52,9 +44,6 @@ KVKK
 
 #middleSection8
 TR
-<<<<<<< Updated upstream
-::
-=======
 :: 
 
 
@@ -68,4 +57,3 @@ CLICK HERE TO BOOKING NOW
 ::
 
 ::DormList
->>>>>>> Stashed changes
