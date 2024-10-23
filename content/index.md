@@ -10,11 +10,11 @@ booking:
   image: https://picsum.photos/id/49/1200/600
 dormList:
   dormOne:
-    name: "dorm 1"
-    link: "wdwq"
+    name: dorm 1
+    link: wdwq
   dormMany:
-    name: "dorm 3"
-    link: "wdwq"
+    name: dorm 3
+    link: wdwq
 ---
 
 ::navbar
@@ -58,4 +58,14 @@ CLICK HERE TO BOOKING NOW
 ::
 
 ::dorm-list
+---
+dormOne: slad
+dormThree: sacas
+dormTwo: sd
+---
+#buttonOne
+lş
+
+#buttonTwo
+llmö
 ::
