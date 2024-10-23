@@ -8,13 +8,7 @@ socials:
   github: https://www.github.com/seninprofilin
 booking:
   image: https://picsum.photos/id/49/1200/600
-dormList:
-  dormOne:
-    name: dorm 1
-    link: wdwq
-  dormMany:
-    name: dorm 3
-    link: wdwq
+dormList: [{ name: "dorm 1", link: "wdwq" }, { name: "dorm 3", link: "wdwq" }]
 ---
 
 ::navbar
