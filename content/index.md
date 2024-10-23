@@ -11,10 +11,10 @@ booking:
 dormList:
   dormOne: 
     name: dorm 1
-    link: wdwq
+    link: /
   dormMany:
     name: dorm 3
-    link: wdwq
+    link: /
 ---
 
 ::navbar
