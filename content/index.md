@@ -8,7 +8,13 @@ socials:
   github: https://www.github.com/seninprofilin
 booking:
   image: https://picsum.photos/id/49/1200/600
-dormList: [{ name: "dorm 1", link: "/" }, { name: "dorm 3", link: "/" }]
+dormList:
+  - name: dorm 1
+    link: /
+  - name: dorm 3
+    link: /
+  - name: dorm 4
+    link: /
 ---
 
 ::navbar
@@ -52,14 +58,4 @@ CLICK HERE TO BOOKING NOW
 ::
 
 ::dorm-list
----
-dormOne: slad
-dormThree: sacas
-dormTwo: sd
----
-#buttonOne
-lş
-
-#buttonTwo
-llmö
 ::
