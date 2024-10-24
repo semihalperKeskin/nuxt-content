@@ -110,6 +110,4 @@ Hep ders hep ders nereye kadar, spor salonu var. İster koş, ister ağırlık �
 ::
 
 ::property
-  :::introduction
-  :::
-::
+::introduction
