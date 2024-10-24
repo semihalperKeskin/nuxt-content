@@ -1,1 +1,0 @@
-import{A as n,c,e as o}from"./Bc8b35fI.js";const l={__name:"Introduction",async setup(a){let t,e;return[t,e]=n(()=>this.$content("article-1").only(["title"]).fetch()),t=await t,e(),(r,s)=>(c(),o("div",null," wdewf "))}};export{l as default};
