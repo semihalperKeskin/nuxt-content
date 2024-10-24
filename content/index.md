@@ -57,7 +57,7 @@ RESIDORM ÖĞRENCİ YURTLARI
 
 ::content-text
 #title
-Bi’ yer hayal edin…
+Bi’ yer hayal edin… 2
 
 #content
 Üniversiteyi kazanınca ailenizden ayrılıp yeni bir şehre gelmişsiniz. Aileden ayrılmak zaten kolay değil, bir de ev rahatlığından kopuyorsunuz. Bir tarafta dersler var; diğer yandan alıştığın evden, mahalleden, insanlardan uzak tek başına ayaklarının üzerinde durma ve yeni bir hayata başlama zorluğu.
@@ -84,7 +84,7 @@ Hep ders hep ders nereye kadar, spor salonu var. İster koş, ister ağırlık �
 
 ::content-text
 #title
-Bi’ yer hayal edin… 2
+Bi’ yer hayal edin…
 
 #content
 Üniversiteyi kazanınca ailenizden ayrılıp yeni bir şehre gelmişsiniz. Aileden ayrılmak zaten kolay değil, bir de ev rahatlığından kopuyorsunuz. Bir tarafta dersler var; diğer yandan alıştığın evden, mahalleden, insanlardan uzak tek başına ayaklarının üzerinde durma ve yeni bir hayata başlama zorluğu.
