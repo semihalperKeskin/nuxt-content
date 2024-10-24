@@ -3,14 +3,14 @@ const { data } = await useAsyncData(() => queryContent("/").findOne());
 
 const booking = data.value?.booking || {}
 
-const light = booking.image
+const image = booking.image
 </script>
 
 <template>
-  <div class="relative flex justify-center my-10">
-    <div class="absolute inset-0 bg-black opacity-50 w-[1200px] mx-auto"></div>
+  <div class="relative my-10 max-w-screen-xl mx-auto">
+    <div class="absolute inset-0 bg-black opacity-50 mx-auto"></div>
 
-    <NuxtImg :src="light" class="max-w-screen-xl h-[600px] object-cover" />
+    <NuxtImg :src="image" class="h-[680px] object-cover" />
 
     <div
       class="absolute inset-0 flex flex-col justify-center items-center text-center text-white"
